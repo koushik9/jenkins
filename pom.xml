@@ -487,8 +487,8 @@
                         <artifactId>maven-jxr-plugin</artifactId>
                         <version>2.1</version>
                     </plugin>
-                </plugins>
-                <plugins>
+                </plugin>
+                <plugin>
                         <groupId>org.codehaus.mojo</groupId>
   		        <artifactId>cobertura-maven-plugin</artifactId>
 		        <version>2.5.2</version>
