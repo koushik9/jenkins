@@ -1,32 +1,3 @@
-
-Skip to content
-Please note that GitHub no longer supports old versions of Firefox.
-
-We recommend upgrading to the latest Safari, Google Chrome, or Firefox.
-
-    Pull requests
-    Issues
-    Marketplace
-    Explore
-
-    @koushik9
-
-13
-8
-
-    319
-
-linuxacademy/content-jenkins-java-project
-Code
-Issues 0
-Pull requests 5
-Projects 0
-Wiki
-Insights
-content-jenkins-java-project/build.xml
-Fetching contributors…
-Cannot retrieve contributors at this time.
-49 lines (40 sloc) 1.46 KB
 <?xml version="1.0"?>
 <project name="Rectangle-Build" default="main" basedir=".">
   <property environment="env"/>
@@ -75,19 +46,3 @@ Cannot retrieve contributors at this time.
   </target>
 
 </project>
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Press h to open a hovercard with more details.
